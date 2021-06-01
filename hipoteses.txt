@@ -1,0 +1,19 @@
+1. Transações com maiores valores monetário tem maior chance de serem fraudes.
+
+2. Transações com um destinatário de origem em comum possuem maiores chances de serem fraudes.
+
+3. Transações possuem maiores chances de serem fraudes se tiverem um alerta de risco de fraude.
+
+4. Transações com do tipo cash-out possuem maiores chances de serem fraudadas.
+
+5. Transações com valores acima da mediana possuem maiores chances de serem fraudas.
+
+6. Transações para contas com valores zerados anteriormente possuem maiores chances de serem fraudes.
+
+7. Transações que deixam suas contas de origem zeradas possuem maiores chances de serem fraudes.
+
+8. Transações para contas de destino com valores originalmente zerados possuem maiores chances de serem fraudes.
+
+9. Transações de uma conta de origem em específico possuem maiores chances de serem fraudes.
+
+10. Transações para uma conta destino específica possuem mairoes chances de serem fraudes.
